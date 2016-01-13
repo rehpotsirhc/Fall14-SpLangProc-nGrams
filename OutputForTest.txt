@@ -1,0 +1,405 @@
+1-GRAM
+(1) <START> 6
+(2) the 11
+(3) moths 1
+(4) had 1
+(5) long 2
+(6) been 1
+(7) exiled 1
+(8) from 1
+(9) flame 4
+(10) they 1
+(11) worship 1
+(12) so 3
+(13) to 5
+(14) solemn 1
+(15) council 1
+(16) came 1
+(17) and 7
+(18) voted 1
+(19) one 4
+(20) of 3
+(21) them 1
+(22) by 1
+(23) lot 1
+(24) be 1
+(25) sent 2
+(26) find 1
+(27) their 1
+(28) idol 1
+(29) was 1
+(30) chosen 1
+(31) went 2
+(32) after 1
+(33) a 3
+(34) circuit 1
+(35) in 4
+(36) sheer 1
+(37) gloom 1
+(38) seeing 1
+(39) he 4
+(40) thought 1
+(41) taper 1
+(42) room 1
+(43) flew 2
+(44) back 2
+(45) at 3
+(46) once 2
+(47) say 1
+(48) but 1
+(49) chief 1
+(50) mothistan 1
+(51) slighted 1
+(52) slight 1
+(53) belief 1
+(54) another 1
+(55) messenger 1
+(56) who 3
+(57) up 1
+(58) house 1
+(59) window 1
+(60) through 1
+(61) itself 1
+(62) message 1
+(63) brings 1
+(64) with 3
+(65) yet 1
+(66) no 1
+(67) sign 1
+(68) conflict 1
+(69) on 1
+(70) his 2
+(71) wings 2
+(72) then 1
+(73) third 1
+(74) spurrd 1
+(75) true 1
+(76) desire 1
+(77) plunging 1
+(78) into 1
+(79) sacred 1
+(80) fire 1
+(81) folded 1
+(82) within 1
+(83) till 1
+(84) became 1
+(85) colour 1
+(86) substance 1
+(87) only 2
+(88) knew 1
+(89) it 1
+(90) burnd 1
+(91) could 1
+(92) tell 2
+(93) neer 1
+(94) returnd 1
+
+
+
+======================================================================
+
+
+2-GRAM
+(1) <START> <START> 6
+(2) <START> the 1
+(3) the moths 1
+(4) moths had 1
+(5) had long 1
+(6) long been 1
+(7) been exiled 1
+(8) exiled from 1
+(9) from the 1
+(10) the flame 4
+(11) flame they 1
+(12) they worship 1
+(13) worship so 1
+(14) so to 1
+(15) to solemn 1
+(16) solemn council 1
+(17) council came 1
+(18) came and 1
+(19) and voted 1
+(20) voted one 1
+(21) one of 1
+(22) of them 1
+(23) them by 1
+(24) by lot 1
+(25) lot be 1
+(26) be sent 1
+(27) sent to 1
+(28) to find 1
+(29) find their 1
+(30) their idol 1
+(31) <START> one 1
+(32) one was 1
+(33) was chosen 1
+(34) chosen went 1
+(35) <START> and 1
+(36) and after 1
+(37) after a 1
+(38) a long 1
+(39) long circuit 1
+(40) circuit in 1
+(41) in sheer 1
+(42) sheer gloom 1
+(43) gloom seeing 1
+(44) seeing he 1
+(45) he thought 1
+(46) thought the 1
+(47) the taper 1
+(48) taper in 1
+(49) in a 1
+(50) a room 1
+(51) room flew 1
+(52) flew back 1
+(53) back at 1
+(54) at once 2
+(55) once to 1
+(56) to say 1
+(57) say so 1
+(58) <START> but 1
+(59) but the 1
+(60) the chief 1
+(61) chief of 1
+(62) of mothistan 1
+(63) mothistan slighted 1
+(64) slighted so 1
+(65) so slight 1
+(66) slight belief 1
+(67) belief and 1
+(68) and sent 1
+(69) sent another 1
+(70) another messenger 1
+(71) messenger who 1
+(72) who flew 1
+(73) flew up 1
+(74) up to 1
+(75) to the 1
+(76) the house 1
+(77) house in 1
+(78) in at 1
+(79) at the 1
+(80) the window 1
+(81) window through 1
+(82) through the 1
+(83) flame itself 1
+(84) itself and 1
+(85) and back 1
+(86) back the 1
+(87) the message 1
+(88) message brings 1
+(89) brings with 1
+(90) with yet 1
+(91) yet no 1
+(92) no sign 1
+(93) sign of 1
+(94) of conflict 1
+(95) conflict on 1
+(96) on his 1
+(97) his wings 2
+(98) <START> then 1
+(99) then went 1
+(100) went a 1
+(101) a third 1
+(102) third and 1
+(103) and spurrd 1
+(104) spurrd with 1
+(105) with true 1
+(106) true desire 1
+(107) desire plunging 1
+(108) plunging at 1
+(109) once into 1
+(110) into the 1
+(111) the sacred 1
+(112) sacred fire 1
+(113) fire folded 1
+(114) folded his 1
+(115) wings within 1
+(116) within till 1
+(117) till he 1
+(118) he became 1
+(119) became one 1
+(120) one colour 1
+(121) colour and 1
+(122) and one 1
+(123) one substance 1
+(124) substance with 1
+(125) with the 1
+(126) <START> he 1
+(127) he only 1
+(128) only knew 1
+(129) knew the 1
+(130) flame who 1
+(131) who in 1
+(132) in it 1
+(133) it burnd 1
+(134) burnd and 1
+(135) and only 1
+(136) only he 1
+(137) he could 1
+(138) could tell 1
+(139) tell who 1
+(140) who neer 1
+(141) neer to 1
+(142) to tell 1
+(143) tell returnd 1
+
+
+
+======================================================================
+
+
+3-GRAM
+(1) <START> <START> the 1
+(2) <START> the moths 1
+(3) the moths had 1
+(4) moths had long 1
+(5) had long been 1
+(6) long been exiled 1
+(7) been exiled from 1
+(8) exiled from the 1
+(9) from the flame 1
+(10) the flame they 1
+(11) flame they worship 1
+(12) they worship so 1
+(13) worship so to 1
+(14) so to solemn 1
+(15) to solemn council 1
+(16) solemn council came 1
+(17) council came and 1
+(18) came and voted 1
+(19) and voted one 1
+(20) voted one of 1
+(21) one of them 1
+(22) of them by 1
+(23) them by lot 1
+(24) by lot be 1
+(25) lot be sent 1
+(26) be sent to 1
+(27) sent to find 1
+(28) to find their 1
+(29) find their idol 1
+(30) <START> <START> one 1
+(31) <START> one was 1
+(32) one was chosen 1
+(33) was chosen went 1
+(34) <START> <START> and 1
+(35) <START> and after 1
+(36) and after a 1
+(37) after a long 1
+(38) a long circuit 1
+(39) long circuit in 1
+(40) circuit in sheer 1
+(41) in sheer gloom 1
+(42) sheer gloom seeing 1
+(43) gloom seeing he 1
+(44) seeing he thought 1
+(45) he thought the 1
+(46) thought the taper 1
+(47) the taper in 1
+(48) taper in a 1
+(49) in a room 1
+(50) a room flew 1
+(51) room flew back 1
+(52) flew back at 1
+(53) back at once 1
+(54) at once to 1
+(55) once to say 1
+(56) to say so 1
+(57) <START> <START> but 1
+(58) <START> but the 1
+(59) but the chief 1
+(60) the chief of 1
+(61) chief of mothistan 1
+(62) of mothistan slighted 1
+(63) mothistan slighted so 1
+(64) slighted so slight 1
+(65) so slight belief 1
+(66) slight belief and 1
+(67) belief and sent 1
+(68) and sent another 1
+(69) sent another messenger 1
+(70) another messenger who 1
+(71) messenger who flew 1
+(72) who flew up 1
+(73) flew up to 1
+(74) up to the 1
+(75) to the house 1
+(76) the house in 1
+(77) house in at 1
+(78) in at the 1
+(79) at the window 1
+(80) the window through 1
+(81) window through the 1
+(82) through the flame 1
+(83) the flame itself 1
+(84) flame itself and 1
+(85) itself and back 1
+(86) and back the 1
+(87) back the message 1
+(88) the message brings 1
+(89) message brings with 1
+(90) brings with yet 1
+(91) with yet no 1
+(92) yet no sign 1
+(93) no sign of 1
+(94) sign of conflict 1
+(95) of conflict on 1
+(96) conflict on his 1
+(97) on his wings 1
+(98) <START> <START> then 1
+(99) <START> then went 1
+(100) then went a 1
+(101) went a third 1
+(102) a third and 1
+(103) third and spurrd 1
+(104) and spurrd with 1
+(105) spurrd with true 1
+(106) with true desire 1
+(107) true desire plunging 1
+(108) desire plunging at 1
+(109) plunging at once 1
+(110) at once into 1
+(111) once into the 1
+(112) into the sacred 1
+(113) the sacred fire 1
+(114) sacred fire folded 1
+(115) fire folded his 1
+(116) folded his wings 1
+(117) his wings within 1
+(118) wings within till 1
+(119) within till he 1
+(120) till he became 1
+(121) he became one 1
+(122) became one colour 1
+(123) one colour and 1
+(124) colour and one 1
+(125) and one substance 1
+(126) one substance with 1
+(127) substance with the 1
+(128) with the flame 1
+(129) <START> <START> he 1
+(130) <START> he only 1
+(131) he only knew 1
+(132) only knew the 1
+(133) knew the flame 1
+(134) the flame who 1
+(135) flame who in 1
+(136) who in it 1
+(137) in it burnd 1
+(138) it burnd and 1
+(139) burnd and only 1
+(140) and only he 1
+(141) only he could 1
+(142) he could tell 1
+(143) could tell who 1
+(144) tell who neer 1
+(145) who neer to 1
+(146) neer to tell 1
+(147) to tell returnd 1
+
+
+
+======================================================================
+
+
